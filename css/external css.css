@@ -1,0 +1,65 @@
+.body{
+    background-color: grey;
+    text-align:right;
+
+}
+
+.menus
+{
+    background-color: rgb(245, 240, 255);
+    color: black;
+    text-align: center; 
+    font-style: oblique;
+    display: grid;
+    /* font-size: 50%; */
+}
+.image{
+    width: 30%;
+    height: 50%;
+    margin-left: 60%;
+    
+}
+}
+.para1{
+    margin-left: 50%;
+    text-align: left;
+    font-size:20px;
+
+    
+}
+.skills{
+    display:flex;
+}
+.container{
+display: flex;
+}
+.image{
+height: 50%;
+width: 30%;
+}
+.h1{
+text-align: center;
+}
+.contact{
+    text-align: left;
+    display: grid;
+    background-color: cadetblue;
+}
+.image1{
+    width: 3%;
+    height: 5%;
+}
+.paragraph{
+    text-align:center ;
+    
+}
+.h4{
+    text-align: center;
+    margin-top: 5%;
+}
+.pg {
+    margin: top;
+    font-size: 30px;
+    text-align: center;
+
+}
